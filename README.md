@@ -52,32 +52,25 @@
 
 
 ## Certifications:
-<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  
+
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 1" height="50" width="50" style="margin-right: 10px;" />
+    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Certification 1" height="50" width="50" style="margin-right: 10px;">
   </a>
-
-  
   <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 2" height="50" width="50" style="margin-right: 10px;" />
+    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Certification 2" height="50" width="50" style="margin-right: 10px;">
   </a>
   <a href="https://www.credly.com/badges/7661b421-38e8-44ab-b72b-c1b9022f24d3/linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="Certification 3" height="40" width="40" style="margin-right: 10px;" />
+    <img src="https://vidscola.com/wp-content/uploads/2019/10/CSM-Banner.png" alt="Certification 3" height="40" width="40" style="margin-right: 10px;">
   </a>
-
-  
-
-  
   <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Certification 5" height="40" width="40" style="margin-right: 10px;" />
+    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Certification 5" height="40" width="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.credly.com/badges/391d2463-0fd4-4fac-8aed-312ea19854bb/linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Certification 6" height="40" width="40" style="margin-right: 10px;" />
+    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Certification 6" height="40" width="40" style="margin-right: 10px;">
   </a>
 </div>
-
 
 
 
