@@ -42,24 +42,34 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
+
+
+
+  
+
 </p>
 
 
 
 ## Certifications:
 <div style="display: flex; justify-content: space-between; align-items: center;">
+
+  
   <a href="https://trailblazer.me/id/andrewchu">
     <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 1" height="50" width="50" style="margin-right: 10px;" />
   </a>
+
+  
   <a href="https://trailblazer.me/id/andrewchu">
     <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 2" height="50" width="50" style="margin-right: 10px;" />
   </a>
   <a href="https://www.credly.com/badges/7661b421-38e8-44ab-b72b-c1b9022f24d3/linked_in_profile">
     <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="Certification 3" height="40" width="40" style="margin-right: 10px;" />
   </a>
-  <a href="https://certification.scrumalliance.org/accounts/directory">
-    <img src="https://media.licdn.com/dms/image/C560BAQHoLJQjSDYtpg/company-logo_100_100/0/1653513869114?e=1695254400&v=beta&t=Tlf8cqTDCRFCGd-hcnSjPLwprqa1Rx8DnLP03CGmROA" alt="Certification 4" height="40" width="40" style="margin-right: 10px;" />
-  </a>
+
+  
+
+  
   <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile">
     <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Certification 5" height="40" width="40" style="margin-right: 10px;" />
   </a>
