@@ -45,43 +45,33 @@
 </p>
 
 
-### Certifications:
-<p align="left">
-  <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 1" height="100" />
-  </a>
-  
-  <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 2" height="100" />
-  </a>
 
-<a href="https://www.credly.com/badges/7661b421-38e8-44ab-b72b-c1b9022f24d3/linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="Certification 3" height="100" />
+
+## Certifications:
+<div style="display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap;">
+  <a href="https://trailblazer.me/id/andrewchu" style="display: flex; margin: -10px;">
+    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 1" height="40" width="40" style="margin: 10px;" />
+    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" alt="Certification 2" height="40" width="40" style="margin: 10px;" />
+    <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="Certification 3" height="40" width="40" style="margin: 10px;" />
   </a>
 
-
-  
-  <br/>
-
-  
-  <a href="https://certification.scrumalliance.org/accounts/directory">
-    <img src="https://media.licdn.com/dms/image/C560BAQHoLJQjSDYtpg/company-logo_100_100/0/1653513869114?e=1695254400&v=beta&t=Tlf8cqTDCRFCGd-hcnSjPLwprqa1Rx8DnLP03CGmROA" alt="Certification 4" height="100" />
+  <a href="https://certification.scrumalliance.org/accounts/directory" style="display:inline-block; margin: 10px;">
+    <img src="https://media.licdn.com/dms/image/C560BAQHoLJQjSDYtpg/company-logo_100_100/0/1653513869114?e=1695254400&v=beta&t=Tlf8cqTDCRFCGd-hcnSjPLwprqa1Rx8DnLP03CGmROA" alt="Certification 4" height="40" width="40" />
   </a>
 
-
-  
-  <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Certification 5" height="100" />
+  <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile" style="display:inline-block; margin: 10px;">
+    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Certification 5" height="40" width="40" />
   </a>
 
-
-  
-  <a href="https://www.credly.com/badges/391d2463-0fd4-4fac-8aed-312ea19854bb/linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Certification 5" height="100" />
+  <a href="https://www.credly.com/badges/391d2463-0fd4-4fac-8aed-312ea19854bb/linked_in_profile" style="display:inline-block; margin: 10px;">
+    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Certification 6" height="40" width="40" />
   </a>
+</div>
 
 
-</p>
+
+
+
 
 
 
