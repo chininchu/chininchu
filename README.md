@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/andrewchu50/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://trailblazer.me/id/andrewchu">
+  <a href="https://www.salesforce.com/trailblazer/andrewchu">
     <img src="https://www.nicepng.com/png/detail/67-671741_salesforce-trailhead-logo-trailhead-salesforce.png" alt="Salesforce Trailhead" height="30" width="40" />
   </a>
 </p>
