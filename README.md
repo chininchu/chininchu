@@ -59,6 +59,6 @@
     <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="SAP Certified Associate" height="50" width="50" style="margin: 5px;">
   </a>
   <a href="https://certification.scrumalliance.org/accounts/directory">
-    <img src="seal-csm.png" alt="Certified ScrumMaster (CSM)" height="50" width="50" style="margin: 5px;">
+    <img src="/logo/seal-csm.png" alt="Certified ScrumMaster (CSM)" height="50" width="50" style="margin: 5px;">
   </a>
 </div>
