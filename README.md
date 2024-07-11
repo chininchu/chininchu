@@ -58,7 +58,7 @@
   <a href="https://www.credly.com/badges/7661b421-38e8-44ab-b72b-c1b9022f24d3/public_url">
     <img src="https://images.credly.com/size/680x680/images/a18fe217-6699-4657-a5f6-94c7122fe7e7/C_TS410_1610.png" alt="SAP Certified Associate" height="50" width="50" style="margin: 5px;">
   </a>
-  <a href="https://certification.scrumalliance.org/accounts/directory">
-    <img src="/logo/seal-csm.png" alt="Certified ScrumMaster (CSM)" height="50" width="50" style="margin: 5px;">
+  <a href="https://badgecert.com/bc/html/groupbadges.html?k=alVNL0JTOC84ays1bWpNRWtZRUlyRGs0cTkybW0yb2Q">
+    <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50" width="50" style="margin: 5px;">
   </a>
 </div>
