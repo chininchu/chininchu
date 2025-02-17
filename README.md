@@ -45,19 +45,19 @@
 <div style="text-align: center;">
 
 <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50" width="50" style="margin: 5px;">
+    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50"  style="margin: 5px;">
   </a>
   <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Salesforce Platform App Builder" height="50" width="50" style="margin: 5px;">
+    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Salesforce Platform App Builder" height="50"  style="margin: 5px;">
   </a>
   <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="50" width="50" style="margin: 5px;">
+    <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="50"  style="margin: 5px;">
   </a>
   <a href="https://www.credly.com/badges/391d2463-0fd4-4fac-8aed-312ea19854bb/linked_in_profile">
-    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" height="50" width="50" style="margin: 5px;">
+    <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" height="50"  style="margin: 5px;">
   </a>
 
   <a href="https://badgecert.com/bc/html/groupbadges.html?k=alVNL0JTOC84ays1bWpNRWtZRUlyRGs0cTkybW0yb2Q">
-    <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50" width="50" style="margin: 5px;">
+    <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50"  style="margin: 5px;">
   </a>
 </div>
