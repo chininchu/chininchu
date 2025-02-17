@@ -42,7 +42,12 @@
 </p>
 
 <h3 style="text-align: center;">Certifications:</h3>
+
 <div style="text-align: center;">
+
+<a href="https://trailblazer.me/id/andrewchu">
+    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" alt="Salesforce Administrator" height="50"  style="margin: 5px;">
+  </a>
 
 <a href="https://trailblazer.me/id/andrewchu">
     <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50"  style="margin: 5px;">
