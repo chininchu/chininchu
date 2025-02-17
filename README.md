@@ -46,14 +46,14 @@
 <div style="text-align: center;">
 
 <a href="https://trailblazer.me/id/andrewchu">
-    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" alt="Salesforce Administrator" height="50"  style="margin: 5px;">
-  </a>
-
-<a href="https://trailblazer.me/id/andrewchu">
     <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50"  style="margin: 5px;">
   </a>
   <a href="https://trailblazer.me/id/andrewchu">
     <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Salesforce Platform App Builder" height="50"  style="margin: 5px;">
+  </a>
+
+  <a href="https://trailblazer.me/id/andrewchu">
+    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" alt="Salesforce Developer" height="50"  style="margin: 5px;">
   </a>
   <a href="https://www.credly.com/badges/83488228-4c9c-4833-9750-a7b2089e1509?source=linked_in_profile">
     <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="50"  style="margin: 5px;">
