@@ -1,10 +1,5 @@
 <h1 style="text-align: center; color: #333;">Hi 👋, I'm Andrew Chu</h1>
-<h3 style="text-align: center; font-style: italic;">Passionate about Salesforce development, I'm a Full Stack Engineer with a drive to create innovative solutions. Proudly served in the U.S. Army.</h3>
-
-<ul style="text-align: center; list-style: none; padding: 0;">
-  <li>🌱 Currently focused on expanding my Salesforce development skills. Let's connect!</li>
-  <li>📫 andrew.c.chu@outlook.com</li> 
-</ul>
+<h3 style="text-align: center; font-style: italic;">A Full Stack Engineer dedicated to mastering Salesforce development and creating impactful solutions. Proudly served in the U.S. Army.</h3>
 
 <h3 style="text-align: center;">Connect with me:</h3>
 <p style="text-align: center;">
