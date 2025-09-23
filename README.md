@@ -27,7 +27,7 @@
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Salesforce Platform App Builder" height="50">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" alt="Salesforce Platform Developer I" height="50">
-  <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="50">
-  <img src="https://images.credly.com/size/680x680/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" height="50">
+  <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" height="50">
+  <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" height="50">
   <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50">
 </div>
