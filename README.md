@@ -23,11 +23,18 @@
 </div>
 
 <h3 style="text-align: center;">Certifications:</h3>
+
+
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; padding: 10px;">
+
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="Salesforce Administrator" height="50">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" alt="Salesforce Platform App Builder" height="50">
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" alt="Salesforce Platform Developer I" height="50">
   <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" height="50">
   <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" height="50">
   <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50">
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a13aa558-7105-4019-a010-70acceaaa927" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 </div>
