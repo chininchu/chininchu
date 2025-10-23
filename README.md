@@ -34,7 +34,7 @@
   <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" height="50">
   <img src="https://badgecert.com/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster (CSM)" height="50">
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a13aa558-7105-4019-a010-70acceaaa927" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a13aa558-7105-4019-a010-70acceaaa927" data-share-badge-host="https://www.credly.com"></div>
 
 
 </div>
